@@ -6,7 +6,7 @@
 Turning raw data into **actionable business insights**  
 **Python • SQL • Power BI • Excel • R • SPSS • EViews • Minitab**
 
-zoha.ehsan0@gmail.com • [LinkedIn](https://www.linkedin.com/in/zoha-ehsan) • [Resume](https://zoha-ehsan.github.io/resume.pdf)
+zoha.ehsan0@gmail.com • [LinkedIn](https://www.linkedin.com/in/zoha-ehsan) • [Resume](https://github.com/zoha-ehsan/Zoha_Ehsan/blob/main/Resume%20Zoha%20Ehsan.pdf)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=950&lines=Open+to+Work+%7C+Data+Analyst+%7C+Business+Intelligence;Available+immediately+for+full-time+roles!" />
 
